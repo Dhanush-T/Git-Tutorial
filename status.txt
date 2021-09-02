@@ -1,0 +1,6 @@
+On branch add-commit
+Your branch is up to date with 'origin/add-commit'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   addMe.txt
