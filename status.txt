@@ -1,12 +1,9 @@
 On branch add-commit
 Your branch is up to date with 'origin/add-commit'.
 
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-        new file:   addMe.txt
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   addMe.txt
 
-On branch add-commit
-Your branch is ahead of 'origin/add-commit' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
+no changes added to commit (use "git add" and/or "git commit -a")
